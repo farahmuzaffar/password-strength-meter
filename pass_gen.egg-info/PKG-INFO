@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: pass_gen
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.11.9
+Description-Content-Type: text/markdown
+Requires-Dist: ruff>=0.9.7
